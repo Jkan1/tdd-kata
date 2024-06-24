@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Jkan1/tdd-kata/issues"
   },
-  "homepage": "https://github.com/Jkan1/tdd-kata#readme"
+  "homepage": "https://github.com/Jkan1/tdd-kata#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
